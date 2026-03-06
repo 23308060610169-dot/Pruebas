@@ -1,25 +1,12 @@
-+--------------------------------------+
-|           GESTOR DE TAREAS           |
-|              (Label)                 |
-+--------------------------------------+
+## Wireframe - Gestor de Tareas
 
-|  [ Escribe una nueva tarea ]         |
-|            (TextBox)                 |
-
-|        [ Agregar tarea ]             |
-|            (Button)                  |
-
-+--------------------------------------+
-|              TAREAS                  |
-|            (ListView)                |
-|                                      |
-|  • Hacer tarea de matemáticas        |
-|  • Estudiar programación             |
-|  • Comprar materiales                |
-|                                      |
-+--------------------------------------+
-
-|     [ Eliminar tarea seleccionada ]  |
-|                (Button)              |
-
-+--------------------------------------+
+| Pantalla de la App |
+|--------------------|
+| **GESTOR DE TAREAS** |
+| Campo de texto: [ Escribe una tarea ] |
+| Botón: **Agregar tarea** |
+| **Lista de tareas** |
+| • Tarea 1 |
+| • Tarea 2 |
+| • Tarea 3 |
+| Botón: **Eliminar tarea** |
